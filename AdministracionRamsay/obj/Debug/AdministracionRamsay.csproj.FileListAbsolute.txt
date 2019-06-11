@@ -1,0 +1,10 @@
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\bin\Debug\AdministracionRamsay.exe.config
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\bin\Debug\AdministracionRamsay.exe
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\bin\Debug\AdministracionRamsay.pdb
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.csprojResolveAssemblyReference.cache
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.Form1.resources
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.Properties.Resources.resources
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.csproj.GenerateResource.Cache
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.exe
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.pdb
+C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.iniciarSesion.resources
