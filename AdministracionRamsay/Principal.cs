@@ -61,5 +61,18 @@ namespace AdministracionRamsay
         {
 
         }
+
+        private void inicioDeSesionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            IniciarSesion Login = new IniciarSesion();
+            Login.ShowDialog();
+            this.Close();
+        }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
