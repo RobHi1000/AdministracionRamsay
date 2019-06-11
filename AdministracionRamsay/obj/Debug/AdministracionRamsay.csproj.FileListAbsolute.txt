@@ -8,3 +8,14 @@ C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay
 C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.exe
 C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.pdb
 C:\Users\edlan\Desktop\proyecto ramsay\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.iniciarSesion.resources
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\bin\Debug\AdministracionRamsay.exe.config
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\bin\Debug\AdministracionRamsay.exe
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\bin\Debug\AdministracionRamsay.pdb
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.csprojResolveAssemblyReference.cache
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.Principal.resources
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.iniciarSesion.resources
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.Properties.Resources.resources
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.csproj.GenerateResource.cache
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.csproj.CoreCompileInputs.cache
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.exe
+C:\Users\rober\Source\Repos\AdministracionRamsay\AdministracionRamsay\obj\Debug\AdministracionRamsay.pdb
